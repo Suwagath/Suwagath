@@ -72,17 +72,17 @@ title="GitHub" />
 ### ? GitHub Stats
 <p align="center">
 <img
-src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&show_icons=true&theme
+src="https://github-readme-stats.vercel.app/api?username=Suwagath&show_icons=true&theme
 =radical" alt="Suwagath's GitHub stats" />
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&layout=com
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suwagath&layout=com
 pact&theme=radical" alt="Top Languages" />
 
 </p>
 ---
 ### ? Activity Graph
 [![Suwagath's GitHub Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&bg_color
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suwagath&bg_color
 =0d1117&color=79fe96&line=7dd3fc&point=f5a623&area=true&hide_border=true)](https://githu
 b.com/ashutosh00710/github-readme-activity-graph)
 ---
