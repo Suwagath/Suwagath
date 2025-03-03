@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MindAnchor](https://github.com/RafanLiya/MindAnchor)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **PERN**
 
 - 📫 How to reach me **suwagath.srithar@gmail.com**
 
