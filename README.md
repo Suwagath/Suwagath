@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech enthusiast turned Python programmer, now on an exciting journey to becoming a full-stack developer. Passionate about building impactful solutions and constantly leveling up. Future goal? Leading a tech giant. Let’s shape the future.<br><br>🔭 I’m currently working on [MindAnchor](https://github.com/Suwagath/DSA-Kunal) <br><br>🌱 I’m currently learning PERN<br><br>📫 How to reach me suwagath.srithar@gmail.com<br><br>⚡ Fun fact I can sing pretty decent
+Tech enthusiast turned Python programmer, now on an exciting journey to becoming a full-stack developer. Passionate about building impactful solutions and constantly leveling up. Future goal? Leading a tech giant. Let’s shape the future.<br><br>🔭 I’m currently working on [DSA](https://github.com/Suwagath/DSA-Kunal) <br><br>🌱 I’m currently learning PERN<br><br>📫 How to reach me suwagath.srithar@gmail.com<br><br>⚡ Fun fact I can sing pretty decent
 
 
 ## 🌐 Socials:
