@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Tech enthusiast turned Python programmer, now on an exciting journey to becoming a full-stack developer. Passionate about building impactful solutions and constantly leveling up. Future goal? Leading a tech giant. Let’s shape the future.<br><br><br>🌱 I’m currently learning PERN<br><br>📫 Reach me via: suwagath.srithar@gmail.com<br><br>⚡ Fun fact I can sing pretty decent
 
 
